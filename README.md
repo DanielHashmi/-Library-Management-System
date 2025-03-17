@@ -8,3 +8,5 @@ A simple Library Management System built with **Streamlit** and **MongoDB**. It 
 - **Display all Books**: View all books in a table format.
 - **Search for a Book**: Search by title, author, genre, or read status.
 - **Statistics**: See the total number of books and percentage of read books.
+
+Live: https://library-managment-system.streamlit.app/
